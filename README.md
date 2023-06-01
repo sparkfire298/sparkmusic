@@ -1,14 +1,22 @@
 # sparkmusic
 A music Discord bot. 
 
+https://sparkfire.ml
+
 # Features (so far)
 - Music playback from [incompetech](https://incompetech.com), where Kevin MacLeod's music is
 - Custom MP3 file playback
 - Easy to use and requires no setup at all
+- Support for hundreds of other sites
+- Autoplay technology
+
+
 
 
 # Using this code
-**You may self host** but PLEASE credit me. As in, in the help command, and maybe even the bots description (Made by You#1234 and sparkfire298#5123)
+The current code here is outdated. Due to the bot becoming more advanced, I have decided to make the bot closed sourced. This repository is no longer updated.
+
+
 
 # Setup
 Requirements: Discord.js v13: At least Node 16.6 or higher
